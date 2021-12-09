@@ -11,6 +11,7 @@
 		041C7BA1275E946900336183 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041C7BA0275E946900336183 /* ContentView.swift */; };
 		041C7BA3275E946B00336183 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041C7BA2275E946B00336183 /* Assets.xcassets */; };
 		041C7BA6275E946B00336183 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041C7BA5275E946B00336183 /* Preview Assets.xcassets */; };
+		0464EF742761F7280046A44C /* FourthScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464EF732761F7280046A44C /* FourthScreen.swift */; };
 		04BC02CC275EBE940022E8D6 /* SecondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC02CB275EBE940022E8D6 /* SecondScreen.swift */; };
 		04BC02D0275F4E900022E8D6 /* ThirdScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC02CF275F4E900022E8D6 /* ThirdScreen.swift */; };
 		04BC02D2275F86140022E8D6 /* ListScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC02D1275F86140022E8D6 /* ListScreen.swift */; };
@@ -22,6 +23,7 @@
 		041C7BA0275E946900336183 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		041C7BA2275E946B00336183 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		041C7BA5275E946B00336183 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0464EF732761F7280046A44C /* FourthScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthScreen.swift; sourceTree = "<group>"; };
 		04BC02CB275EBE940022E8D6 /* SecondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondScreen.swift; sourceTree = "<group>"; };
 		04BC02CF275F4E900022E8D6 /* ThirdScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdScreen.swift; sourceTree = "<group>"; };
 		04BC02D1275F86140022E8D6 /* ListScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListScreen.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				04BC02CB275EBE940022E8D6 /* SecondScreen.swift */,
 				04BC02CF275F4E900022E8D6 /* ThirdScreen.swift */,
 				04BC02D1275F86140022E8D6 /* ListScreen.swift */,
+				0464EF732761F7280046A44C /* FourthScreen.swift */,
 				041C7BA2275E946B00336183 /* Assets.xcassets */,
 				041C7BA4275E946B00336183 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04BC02D2275F86140022E8D6 /* ListScreen.swift in Sources */,
+				0464EF742761F7280046A44C /* FourthScreen.swift in Sources */,
 				041C7BA1275E946900336183 /* ContentView.swift in Sources */,
 				041C7B9F275E946900336183 /* BookmarkApp.swift in Sources */,
 				04BC02CC275EBE940022E8D6 /* SecondScreen.swift in Sources */,
